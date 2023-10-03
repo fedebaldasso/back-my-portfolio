@@ -1,0 +1,15 @@
+com.profile.Fede_Baldasso
+com.profile.Fede_Baldasso.Controller
+com.profile.Fede_Baldasso.Dto
+com.profile.Fede_Baldasso.Entity
+com.profile.Fede_Baldasso.Interface
+com.profile.Fede_Baldasso.Repository
+com.profile.Fede_Baldasso.Security
+com.profile.Fede_Baldasso.Security.Controller
+com.profile.Fede_Baldasso.Security.Dto
+com.profile.Fede_Baldasso.Security.Entity
+com.profile.Fede_Baldasso.Security.Enums
+com.profile.Fede_Baldasso.Security.jwt
+com.profile.Fede_Baldasso.Security.Repository
+com.profile.Fede_Baldasso.Security.Service
+com.profile.Fede_Baldasso.Service
